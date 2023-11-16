@@ -1,0 +1,20 @@
+body{
+  background-color: slategray;
+  
+}
+div{
+  background:gray;
+  width: 350px;
+  color: whitesmoke;
+}
+.logo{
+  margin-left: 149px;
+}
+.last_section{border: 10px;
+border-color: white;
+border-style:solid;
+  
+}
+h2{
+  background-color: purple;
+}
